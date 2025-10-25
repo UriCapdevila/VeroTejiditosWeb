@@ -130,7 +130,7 @@ All colors MUST be HSL.
     bottom: 20px;
     right: 20px;
     z-index: 1000;
-    animation: bounce 2s infinite;
+    animation: bounce 4s infinite;
   }
 }
 
